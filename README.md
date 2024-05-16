@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @TadiwanasheZvidzaRodney
+- [![committers.top badge](https://user-badge.committers.top/zimbabwe/TadiwanasheZvidzaRodney.svg)](https://user-badge.committers.top/zimbabwe/TadiwanasheZvidzaRodney)
 
 <!---
 TadiwanasheZvidzaRodney/TadiwanasheZvidzaRodney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
