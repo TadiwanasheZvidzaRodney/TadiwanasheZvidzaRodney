@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TadiwanasheZvidzaRodney
 - [![committers.top badge](https://user-badge.committers.top/zimbabwe/TadiwanasheZvidzaRodney.svg)](https://user-badge.committers.top/zimbabwe/TadiwanasheZvidzaRodney)
-- click image to view portfolio!👇🏿
+- click image to view my website!👇🏿
 - [![Portfolio](Tadiwa_Zvidza.webp)](https://tadiwanashe.vercel.app)
 
 <!---
