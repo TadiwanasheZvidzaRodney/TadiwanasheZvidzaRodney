@@ -1,4 +1,4 @@
-<h1 align="center">Tadiwanashe Zvidza Rodney</h1>
+<h1 align="center">Tadiwanashe Rodney Zvidza</h1>
 
 <p align="center">
 	Builder. Problem-solver. Future-focused developer.
