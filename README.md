@@ -14,7 +14,8 @@
 
 <p>
 That image below is where it all started.
-It represents the first spark, the first build, and the mindset that still drives every project I ship.
+It represents the first spark, the first build, and the mindset that still drives every project I ship. 
+At the Uncommon.org 22-23 Tech Bootcamp, Mufakose Hub
 </p>
 
 <p align="center">
