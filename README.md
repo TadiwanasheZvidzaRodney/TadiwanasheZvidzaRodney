@@ -14,14 +14,13 @@
 
 <p>
 That image below is where it all started.
-It represents the first spark, the first build, and the mindset that still drives every project I ship. 
-At the Uncommon.org 22-23 Tech Bootcamp, Mufakose Hub
-</p>
+It represents the first spark, the first build, and the mindset that still drives every project I ship.
 
 <p align="center">
 	<a href="https://tadiwanashe.vercel.app">
 		<img src="Tadiwa_Zvidza.webp" alt="Tadiwanashe portfolio origin image" width="860" />
 	</a>
+	<p align="center"><a href="https://uncommon.org"><strong>Uncommon.org</strong></a> 22-23 Tech Bootcamp, Mufakose Hub.<p/>
 </p>
 
 <p align="center">
