@@ -1,51 +1,92 @@
-<h1 align="center">Tadiwanashe Rodney Zvidza</h1>
+<div align="center">
 
-<p align="center">
-	Builder. Problem-solver. Future-focused developer.
-</p>
+# 👋 Hey, I’m **Tadiwanashe Zvidza Rodney**
 
-<p align="center">
-	<a href="https://tadiwanashe.vercel.app"><strong>Open Portfolio</strong></a>
-</p>
-
----
-
-## The Beginning
+### Software Developer • Problem Solver • Product Builder
 
 <p>
-That image below is where it all started.
-It represents the first spark, the first build, and the mindset that still drives every project I ship.
-
-<p align="center">
-	<a href="https://tadiwanashe.vercel.app">
-		<img src="Tadiwa_Zvidza.webp" alt="Tadiwanashe portfolio origin image" width="860" />
-	</a>
-	<p align="center"><a href="https://uncommon.org"><strong>Uncommon.org</strong></a> 22-23 Tech Bootcamp, Mufakose Hub.<p/>
+  <a href="https://github.com/TadiwanasheZvidzaRodney">
+    <img src="https://komarev.com/ghpvc/?username=TadiwanasheZvidzaRodney&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+  <a href="https://github.com/TadiwanasheZvidzaRodney?tab=followers">
+    <img src="https://img.shields.io/github/followers/TadiwanasheZvidzaRodney?label=Followers&style=flat&color=0e75b6" alt="followers"/>
+  </a>
+  <a href="https://github.com/TadiwanasheZvidzaRodney">
+    <img src="https://img.shields.io/github/stars/TadiwanasheZvidzaRodney?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=0e75b6" alt="stars"/>
+  </a>
 </p>
 
-<p align="center">
-	<sub>Click the image to visit my website.</sub>
-</p>
+</div>
 
 ---
 
-## About Me
+## ⚡ About Me
 
-- I turn ideas into products with clean architecture and strong execution.
-- I care about user experience, performance, and maintainable code.
-- I treat every commit as a step toward mastery.
+I build modern software with a focus on **performance**, **clean code**, and **real-world impact**.  
+I enjoy creating systems that are not only functional, but elegant and maintainable.
 
-## What You Will Find Here
+- 🔭 Currently building and refining production-ready apps
+- 🧠 Constantly learning systems design, architecture, and advanced tooling
+- 🤝 Open to collaboration on meaningful projects
+- 🎯 Goal: ship high-impact software that solves real problems
 
-- Real projects with clear intent and practical value.
-- Experiments that push my skills forward.
-- A developer who keeps learning, shipping, and improving.
+---
 
-## Connect
+## 🧰 Toolbox
 
-- Portfolio: [tadiwanashe.vercel.app](https://tadiwanashe.vercel.app)
+**Languages:**  
+`JavaScript` `TypeScript` `Python` `Java` `SQL`
 
-<!---
-TadiwanasheZvidzaRodney/TadiwanasheZvidzaRodney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frontend:**  
+`React` `Next.js` `Tailwind CSS`
+
+**Backend & APIs:**  
+`Node.js` `Express` `REST` `GraphQL`
+
+**Data & DevOps:**  
+`PostgreSQL` `MongoDB` `Firebase` `Docker`
+
+**Workflow:**  
+`Git` `GitHub` `CI/CD` `Linux`
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=TadiwanasheZvidzaRodney&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TadiwanasheZvidzaRodney&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="160" src="https://streak-stats.demolab.com?user=TadiwanasheZvidzaRodney&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+> Swap these placeholders with your top repos.
+
+- 🚀 **Project Alpha** — scalable full-stack platform for X  
+  [Repo](https://github.com/TadiwanasheZvidzaRodney) • [Live](#)
+
+- 🧠 **Project Beta** — automation/data solution improving Y  
+  [Repo](https://github.com/TadiwanasheZvidzaRodney) • [Demo](#)
+
+- 🎨 **Project Gamma** — modern UI product focused on UX  
+  [Repo](https://github.com/TadiwanasheZvidzaRodney) • [Preview](#)
+
+---
+
+## 🤝 Connect
+
+- 💼 LinkedIn: [Your LinkedIn](#)
+- 🌐 Portfolio: [Your Portfolio](#)
+- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+<div align="center">
+  <sub><strong>“Build boldly. Keep it simple. Ship relentlessly.”</strong></sub>
+</div>
