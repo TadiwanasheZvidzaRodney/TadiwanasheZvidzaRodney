@@ -5,7 +5,7 @@
 # 👋 Hey there, I'm **Tadiwanashe Zvidza Rodney**
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%26+Cloud+Consultant;Building+Digital+Experiences;AWS+%26+IBM+Certified;Uncommon.org+Bootcamp+Alum" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%26+Cloud+Consultant;Building+Digital+Experiences;AWS+%26+IBM+Certified;Uncommon.org+Alum" alt="Typing SVG" />
 </a>
 
 <p align="center">
