@@ -105,11 +105,11 @@ From crafting responsive frontends to architecting reliable backend systems, I s
 ## 🚀 Latest Work
 
 <!-- START:latest-projects -->
-- [**TadiwanasheZvidzaRodney**](https://github.com/TadiwanasheZvidzaRodney/TadiwanasheZvidzaRodney) - Config files for my GitHub profile.
+- [**image_captionAing**](https://github.com/TadiwanasheZvidzaRodney/image_captionAing) - A project currently in development. | Python
+- [**edtp**](https://github.com/TadiwanasheZvidzaRodney/edtp) - A project currently in development. | Rust
+- [**TadiwanasheZvidzaRodney**](https://github.com/TadiwanasheZvidzaRodney/TadiwanasheZvidzaRodney) - Config files for my GitHub profile. | JavaScript
 - [**the_agent_app_store**](https://github.com/TadiwanasheZvidzaRodney/the_agent_app_store) - A project currently in development. | Python
 - [**ecosystem-landing**](https://github.com/TadiwanasheZvidzaRodney/ecosystem-landing) - A project currently in development. | Vue
-- [**snake_game**](https://github.com/TadiwanasheZvidzaRodney/snake_game) - A project currently in development. | JavaScript
-- [**CodeCraftHub**](https://github.com/TadiwanasheZvidzaRodney/CodeCraftHub) - A project currently in development.
 <!-- END:latest-projects -->
 
 ---
