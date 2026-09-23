@@ -105,8 +105,8 @@ From crafting responsive frontends to architecting reliable backend systems, I s
 ## 🚀 Latest Work
 
 <!-- START:latest-projects -->
-- [**the_agent_app_store**](https://github.com/TadiwanasheZvidzaRodney/the_agent_app_store) - A project currently in development. | Python
 - [**TadiwanasheZvidzaRodney**](https://github.com/TadiwanasheZvidzaRodney/TadiwanasheZvidzaRodney) - Config files for my GitHub profile. | JavaScript
+- [**the_agent_app_store**](https://github.com/TadiwanasheZvidzaRodney/the_agent_app_store) - A project currently in development. | Python
 - [**personal_knowledge_bot**](https://github.com/TadiwanasheZvidzaRodney/personal_knowledge_bot) - A project currently in development. | CSS
 - [**chatbot**](https://github.com/TadiwanasheZvidzaRodney/chatbot) - A project currently in development. | CSS
 - [**image_captionAing**](https://github.com/TadiwanasheZvidzaRodney/image_captionAing) - A project currently in development. | Python
