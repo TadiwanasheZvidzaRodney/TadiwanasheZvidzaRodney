@@ -105,11 +105,11 @@ From crafting responsive frontends to architecting reliable backend systems, I s
 ## 🚀 Latest Work
 
 <!-- START:latest-projects -->
+- [**ai-trading-command-centre**](https://github.com/TadiwanasheZvidzaRodney/ai-trading-command-centre) - A project currently in development.
 - [**menace_world_tech**](https://github.com/TadiwanasheZvidzaRodney/menace_world_tech) - A project currently in development. | Astro
 - [**TadiwanasheZvidzaRodney**](https://github.com/TadiwanasheZvidzaRodney/TadiwanasheZvidzaRodney) - Config files for my GitHub profile. | JavaScript
 - [**the_agent_app_store**](https://github.com/TadiwanasheZvidzaRodney/the_agent_app_store) - A project currently in development. | Python
 - [**personal_knowledge_bot**](https://github.com/TadiwanasheZvidzaRodney/personal_knowledge_bot) - A project currently in development. | CSS
-- [**chatbot**](https://github.com/TadiwanasheZvidzaRodney/chatbot) - A project currently in development. | CSS
 <!-- END:latest-projects -->
 
 ---
