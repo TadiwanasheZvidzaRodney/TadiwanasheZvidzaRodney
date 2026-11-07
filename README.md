@@ -105,10 +105,10 @@ From crafting responsive frontends to architecting reliable backend systems, I s
 ## 🚀 Latest Work
 
 <!-- START:latest-projects -->
+- [**TadiwanasheZvidzaRodney**](https://github.com/TadiwanasheZvidzaRodney/TadiwanasheZvidzaRodney) - Config files for my GitHub profile. | JavaScript
 - [**sms**](https://github.com/TadiwanasheZvidzaRodney/sms) - A project currently in development. | JavaScript
 - [**charis_belle**](https://github.com/TadiwanasheZvidzaRodney/charis_belle) - A project currently in development. | TypeScript
 - [**copilot-implementation-agent**](https://github.com/TadiwanasheZvidzaRodney/copilot-implementation-agent) - A project currently in development. | Vue
-- [**TadiwanasheZvidzaRodney**](https://github.com/TadiwanasheZvidzaRodney/TadiwanasheZvidzaRodney) - Config files for my GitHub profile. | JavaScript
 - [**cyberage**](https://github.com/TadiwanasheZvidzaRodney/cyberage) - A project currently in development. | Python
 <!-- END:latest-projects -->
 
