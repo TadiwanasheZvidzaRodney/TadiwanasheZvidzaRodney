@@ -105,9 +105,9 @@ From crafting responsive frontends to architecting reliable backend systems, I s
 ## 🚀 Latest Work
 
 <!-- START:latest-projects -->
+- [**TadiwanasheZvidzaRodney**](https://github.com/TadiwanasheZvidzaRodney/TadiwanasheZvidzaRodney) - Config files for my GitHub profile. | JavaScript
 - [**ai-trading-command-centre**](https://github.com/TadiwanasheZvidzaRodney/ai-trading-command-centre) - A project currently in development. | TypeScript
 - [**the_agent_app_store**](https://github.com/TadiwanasheZvidzaRodney/the_agent_app_store) - A project currently in development. | Python
-- [**TadiwanasheZvidzaRodney**](https://github.com/TadiwanasheZvidzaRodney/TadiwanasheZvidzaRodney) - Config files for my GitHub profile. | JavaScript
 - [**sms**](https://github.com/TadiwanasheZvidzaRodney/sms) - A project currently in development. | JavaScript
 - [**charis_belle**](https://github.com/TadiwanasheZvidzaRodney/charis_belle) - A project currently in development. | TypeScript
 <!-- END:latest-projects -->
