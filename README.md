@@ -105,7 +105,7 @@ From crafting responsive frontends to architecting reliable backend systems, I s
 ## 🚀 Latest Work
 
 <!-- START:latest-projects -->
-- [**argus-engine**](https://github.com/TadiwanasheZvidzaRodney/argus-engine) - Argus Engine is a multi-tenant AWS management console that discovers infrastructure across accounts and regions, visualizes it as a live graph, and enables reviewed mutations through an MCP-based action engine.
+- [**argus-engine**](https://github.com/TadiwanasheZvidzaRodney/argus-engine) - Argus Engine is a multi-tenant AWS management console that discovers infrastructure across accounts and regions, visualizes it as a live graph, and enables reviewed mutations through an MCP-based action engine. | Python
 - [**TadiwanasheZvidzaRodney**](https://github.com/TadiwanasheZvidzaRodney/TadiwanasheZvidzaRodney) - Config files for my GitHub profile. | JavaScript
 - [**ai-trading-command-centre**](https://github.com/TadiwanasheZvidzaRodney/ai-trading-command-centre) - A project currently in development. | TypeScript
 - [**the_agent_app_store**](https://github.com/TadiwanasheZvidzaRodney/the_agent_app_store) - A project currently in development. | Python
